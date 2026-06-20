@@ -12,8 +12,8 @@ const express = require('express')
 const MINECRAFT_HOST = 'kingmc.vn'
 const MINECRAFT_PORT = 25565
 
-const DISCORD_TOKEN    = process.env.DISCORD_TOKEN    || 'MTUxMzU2NjMzODM4NjQ5NzY5Nw.GPHdmk.6EngWqyj9gUeqxG9y-zWUMrQ53RplcrG_zwNBI'
-const DISCORD_CHANNEL_ID = process.env.DISCORD_CHANNEL_ID || '1513576584383299625'
+const DISCORD_TOKEN    = process.env.DISCORD_TOKEN    || 'TOKEN_DISCORD_BOT_CỦA_BẠN'
+const DISCORD_CHANNEL_ID = process.env.DISCORD_CHANNEL_ID || 'ID_KÊNH_DISCORD_CỦA_BẠN'
 
 const TARGET = { x: 7, y: 42, z: 59 }
 // ====================================================
